@@ -1,0 +1,21 @@
+2023-08-06 04:15:05.052886 - Initialized conversion of CBT470
+2023-08-06 04:15:05.183666 - Received CBT.V505.FILE470.PDS from FILE470.XMI 
+2023-08-06 04:15:05.186420 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:15:05.187588 - Found $DOC.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/$DOC
+2023-08-06 04:15:05.188623 - Found @FILE470.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/@FILE470
+2023-08-06 04:15:05.189694 - Found CHAIN.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/CHAIN
+2023-08-06 04:15:05.190599 - Found CONCAT.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/CONCAT
+2023-08-06 04:15:05.191551 - Found DDD.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD
+2023-08-06 04:15:05.192490 - Found DDDD.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDDD
+2023-08-06 04:15:05.193436 - Found DDDMSG.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDDMSG
+2023-08-06 04:15:05.194381 - Found DDDMVC.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDDMVC
+2023-08-06 04:15:05.195361 - Found DDD0.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD0
+2023-08-06 04:15:05.196298 - Found DDD1.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD1
+2023-08-06 04:15:05.197292 - Found DDD2.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD2
+2023-08-06 04:15:05.198206 - Found DDD3.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD3
+2023-08-06 04:15:05.199117 - Found DDD4.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD4
+2023-08-06 04:15:05.199986 - Found DDD5.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDD5
+2023-08-06 04:15:05.200905 - Found DDI.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDI
+2023-08-06 04:15:05.201870 - Found DDTU.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/DDTU
+2023-08-06 04:15:05.202768 - Found FREE.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/FREE
+2023-08-06 04:15:05.203917 - Found UNCHAIN.txt (text/plain) in CBT.V505.FILE470.PDS, moved to PDS/UNCHAIN
