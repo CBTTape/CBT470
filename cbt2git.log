@@ -1,0 +1,20 @@
+2025-04-13 19:53:59.155280 - Received CBT.V508.FILE470.PDS from FILE470.XMI 
+2025-04-13 19:53:59.156438 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/$$$#DATE
+2025-04-13 19:53:59.156533 - Found $DOC.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/$DOC
+2025-04-13 19:53:59.156602 - Found @FILE470.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/@FILE470
+2025-04-13 19:53:59.156663 - Found CHAIN.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/CHAIN
+2025-04-13 19:53:59.156724 - Found CONCAT.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/CONCAT
+2025-04-13 19:53:59.156783 - Found DDD.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD
+2025-04-13 19:53:59.156839 - Found DDDD.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDDD
+2025-04-13 19:53:59.156894 - Found DDDMSG.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDDMSG
+2025-04-13 19:53:59.156949 - Found DDDMVC.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDDMVC
+2025-04-13 19:53:59.157009 - Found DDD0.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD0
+2025-04-13 19:53:59.157067 - Found DDD1.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD1
+2025-04-13 19:53:59.157158 - Found DDD2.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD2
+2025-04-13 19:53:59.157221 - Found DDD3.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD3
+2025-04-13 19:53:59.157284 - Found DDD4.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD4
+2025-04-13 19:53:59.157343 - Found DDD5.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDD5
+2025-04-13 19:53:59.157399 - Found DDI.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDI
+2025-04-13 19:53:59.157467 - Found DDTU.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/DDTU
+2025-04-13 19:53:59.157532 - Found FREE.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/FREE
+2025-04-13 19:53:59.157593 - Found UNCHAIN.txt (text/plain) in CBT.V508.FILE470.PDS, moved to PDS/UNCHAIN
